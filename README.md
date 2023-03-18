@@ -14,6 +14,8 @@ Perform data cleaning.
 ### Dataset:
 It is a large crawl of product reviews from Amazon. This dataset contains 82.83 million unique reviews, from around 20 million users. In this project, only Appliances dataset is used to make the processing time faster. An example of a review is shwon below.
 
+Note: Dataset file is lage to upload in Github, please use the link below to upload the same used dataset.
+
 Example: <br>
 {<br>
   "reviewerID": "A2SUAM1J3GNN3B",<br>
