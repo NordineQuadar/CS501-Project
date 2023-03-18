@@ -1,2 +1,2 @@
-# CS501-Product
+# CS501-Project
 Product Reviews Analysis
